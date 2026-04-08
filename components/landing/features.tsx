@@ -88,7 +88,7 @@ export function Features() {
             Why <span className="text-primary">GoShats</span>?
           </h2>
           <p className="mt-5 text-lg text-gray-500 max-w-xl mx-auto">
-            Built for Abuja, designed for speed, and focused on trust.
+            Built for everyone, designed for speed, and focused on trust.
           </p>
         </motion.div>
 
